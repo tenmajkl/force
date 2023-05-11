@@ -21,4 +21,4 @@ Now, you gotta remember, I'm as self-taught as a cat learning to play the piano.
 
 Plot twist: I just found out that the language for Force is actually regular. Could've just whipped up a simple regex and called it a day! Oh, the irony! The language for programming the granddaddy of all automata, capable of processing level-0 grammars, is chilling at level-3. Cue the laugh track! LOL.
 
-*chatGPT 2023*
+*chatGPT and @zZHorizonZz 2023*
